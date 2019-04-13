@@ -1,0 +1,13 @@
+[package]
+name = "autosplash"
+version = "0.1.0"
+authors = ["Christian Ferguson <fergusch@iu.edu>"]
+
+[dependencies]
+wallpaper="2.0.1"
+chan="0.1.23"
+rust-ini = "0.13"
+termion="1.0.0"
+rand = "0.6.5"
+reqwest="0.9"
+chrono = "0.4"
